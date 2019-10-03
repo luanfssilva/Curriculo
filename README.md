@@ -76,6 +76,8 @@ Desenvolvimento de um GPS Agrícola utilizando aplicativo Android em conjunto co
 
 
 ## Eventos como Organizador
+* Staff Startup Weekend São Paulo AgroTech
+* Staff Startup Weekend São Paulo Artificial Intelligence
 * Coordenador 9º Congresso Acadêmico de Tecnológia e Informática (CATI 2017) -  ([Certificado](certificados/Luan_Felipe.pdf))
 * 3º Edição do DEV.AGRI Hackathon de Agronegócio ([Certificado](#))
 * 10º Semana Acadêmica de Computação (SEACOMP 2017) - ([Certificado](certificados/Luan_Felipe_Seacomp.pdf))
