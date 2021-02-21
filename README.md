@@ -70,8 +70,8 @@ Desenvolvedor Mobile - Junior.
 * Git
 
 ## Projetos
-* [Aplicativo p/ Gerenciamento de Rebanho Bovino de Corte](#)<br>
-Projeto EM DESENVOLVIMENTO de um aplicativo mobile para gerenciamento de rebanho bovino de corte. A proposta do aplicativo surgiu dentro de uma disciplina do curso de Agronegócio e teve o artigo publicado na [9º Jornada Cientifíca e Tecnologica](http://www.fatecbt.edu.br/fatec/index.php/7395-2/).   
+* [Aplicativo p/ Gerenciamento de Rebanho Bovino de Corte](certificados/APRESENTACAO_JORNACITEC.pdf)<br>
+Projeto EM DESENVOLVIMENTO de um aplicativo mobile para gerenciamento de rebanho bovino de corte. A proposta do aplicativo surgiu dentro de uma disciplina do curso de Agronegócio e teve o [ARTIGO](certificados/Artigo_Jornacitec.pdf) publicado na [9º Jornada Cientifíca e Tecnologica](http://www.fatecbt.edu.br/fatec/index.php/7395-2/).   
 
 * [Trabalho de Conclusão de Curso](certificados/TCC_2_Final.pdf)<br>
 Desenvolvimento de um GPS Agrícola utilizando aplicativo Android em conjunto com um sistema embarcado.    
