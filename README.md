@@ -2,10 +2,14 @@
 Desenvolvedor Mobile - Junior.
 
 :house:    Botucatu/SP <br>
-:iphone:   (65) 99622 - 2167 <br>
+:iphone:   (14) 99623 - 2167 <br>
 :envelope:  luanfelipebtu@hotmail.com
 
 ## Formação
+
+* **Tecnologia em Agronegócio** <br>
+*Faculdade de Tecnologia de São Paulo - FATEC-BT* <br>
+2019 - Em Andamento
 
 * **Bacharel em Ciência da Computação** <br>
 *Universidade do Estado de Mato Grosso - UNEMAT* <br>
@@ -54,7 +58,7 @@ Desenvolvedor Mobile - Junior.
 ### Linguagens de Programação
 * C/C++
 * Java
-* Android
+* Kotlin
 * Proton Basic
 
 ### Banco de Dados
@@ -66,6 +70,9 @@ Desenvolvedor Mobile - Junior.
 * Git
 
 ## Projetos
+* [Aplicativo p/ Gerenciamento de Rebanho Bovino de Corte](#)<br>
+Projeto EM DESENVOLVIMENTO de um aplicativo mobile para gerenciamento de rebanho bovino de corte. A proposta do aplicativo surgiu dentro de uma disciplina do curso de Agronegócio e teve o artigo publicado na [9º Jornada Cientifíca e Tecnologica](http://www.fatecbt.edu.br/fatec/index.php/7395-2/).   
+
 * [Trabalho de Conclusão de Curso](certificados/TCC_2_Final.pdf)<br>
 Desenvolvimento de um GPS Agrícola utilizando aplicativo Android em conjunto com um sistema embarcado.    
 
@@ -78,7 +85,7 @@ Desenvolvimento de um GPS Agrícola utilizando aplicativo Android em conjunto co
 ## Eventos como Organizador
 * Staff Startup Weekend São Paulo AgroTech
 * Staff Startup Weekend São Paulo Artificial Intelligence
-* Coordenador 9º Congresso Acadêmico de Tecnológia e Informática (CATI 2017) -  ([Certificado](certificados/Luan_Felipe.pdf))
+* Coordenador 9º Congresso Acadêmico de Tecnológia e Informática (CATI 2017) - ([Certificado](certificados/Luan_Felipe.pdf))
 * 3º Edição do DEV.AGRI Hackathon de Agronegócio ([Certificado](#))
 * 10º Semana Acadêmica de Computação (SEACOMP 2017) - ([Certificado](certificados/Luan_Felipe_Seacomp.pdf))
 * Maratona Células Empreendedoras Mato Grosso - ([Certificado](certificados/Celulas_Empreendedoras.pdf))
